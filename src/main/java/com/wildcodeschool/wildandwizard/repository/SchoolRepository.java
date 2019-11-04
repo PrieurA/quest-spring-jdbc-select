@@ -1,7 +1,6 @@
 package com.wildcodeschool.wildandwizard.repository;
 
 import com.wildcodeschool.wildandwizard.entity.School;
-import com.wildcodeschool.wildandwizard.entity.Wizard;
 
 import java.sql.*;
 import java.util.ArrayList;
